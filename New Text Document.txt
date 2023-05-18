@@ -1,0 +1,12 @@
+    <table border="2" id="12">
+        <tr>
+
+    <td>«·„«œ… </td> <td>«··€Â «··≈‰Ã·Ì“Ì…  </td> <td>«·›Ì“Ì«¡ </td> <td>«·√ÕÌ«¡ </td> <td> «· —»Ì… «·œÌ‰Ì…</td><td>«·Õ«”»  «·«·Ì </td> <td>k </td> <td> k</td> <td>k </td>
+
+</tr>
+<tr>
+    <td>«·œ—ÃÂ «·⁄Ÿ„Ï</td> <td>1 </td> <td>1 </td> <td>1 </td> <td>1 </td> <td>1 </td> <td>2 </td> <td> 2</td> <td> 2</td>
+</tr>
+
+<tr>
+    <td>œ—Ã ﬂ </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td>2 </td> <td> 2</td> <td> 2</td>
